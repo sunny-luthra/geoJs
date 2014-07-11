@@ -1,0 +1,4 @@
+geoJs
+=====
+
+JavaScript Geometry library. 
